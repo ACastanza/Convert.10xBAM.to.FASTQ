@@ -1,5 +1,7 @@
 #! /bin/bash
 # Using getopt
+# Updated to bamtofastq_linux binary v1.4.0
+
 set -e
 
 abort()
